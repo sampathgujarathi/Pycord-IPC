@@ -1,0 +1,2 @@
+websockets>=10.4
+py-cord >= 2.4.1
